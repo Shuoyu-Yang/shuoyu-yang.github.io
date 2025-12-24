@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 ## Biography
-I am a Ph.D. Student at xxx for AI Security and Privacy.
+I am a Ph.D. Student at Harbin Institute of Technology for AI Security and Privacy.
 
 
